@@ -7,7 +7,9 @@
 
 ## Run
 1.node server.js
+
 2. In browser go to localhost:8000
+
 
 For this project I made a simple Pokemon Express using HTML, CSS, JavaScript and using Express
 The user will input 1 of 3 Pokemon name avalible to look at the type, number in PokeDex and what kind of animal it is
