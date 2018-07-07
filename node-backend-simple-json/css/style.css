@@ -1,0 +1,38 @@
+body{
+  background-image: url("https://wallpapercave.com/wp/wp1957149.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: darkblue;
+  font-size: 50px;
+  width: 40%;
+  text-align: center;
+}
+p{
+  font-size: 25px;
+  width: 50%;
+  font-family: fantasy;
+}
+#must{
+  font-size: 16px;
+  width: 40%;
+  color: red;
+}
+input{
+  font-size: 26px;
+  width: 20%;
+}
+button{
+  font-size: 26px;
+  width: 20%;
+}
+h4{
+  font-size: 25px;
+  width: 30%;
+}
+h2{
+  font-size: 30px;
+  width: 20%;
+  color: darkblue;
+}
